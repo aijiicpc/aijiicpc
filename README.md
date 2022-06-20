@@ -11,5 +11,4 @@
 
 
 ### Personal
-* [github.com/ZenithalHourlyRate](https://github.com/ZenithalHourlyRate): My role model since my senior high
 * [github.com/aijisjtu](https://github.com/aijisjtu): Personal account
